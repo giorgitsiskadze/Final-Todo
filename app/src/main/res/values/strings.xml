@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo Applic</string>
+    <string name="SplashAppTitle">Todo</string>
+    <string name="SplashAppDescription">Created by Giorgi Tsiskadze</string>
+</resources>
